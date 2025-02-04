@@ -20,4 +20,4 @@ Rather consider [sponsoring itzg](https://github.com/sponsors/itzg) who created 
 
 ## Cooperations and business inquiries
 
-If you are interested in a collaboration that will bring added value to the users of setupmc.com, please send an email to business@niklas.id. Our configurator is used by hundreds of users every week.
+If you are interested in a collaboration that will bring added value to the users of setupmc.com, please [send an email to business@niklas.id](mailto:business@niklas.id) or [send a message via the contact form of my software company](https://krymo.software/contact/). Our configurator is used by hundreds of users worldwide every week.
